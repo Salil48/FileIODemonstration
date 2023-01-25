@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Rajeev",
+    "email": "rajeev@gmail.com",
+    "phone": "787878787",
+    "country": "India"
+  },
+  {
+    "name": "Suresh",
+    "email": "Suresh@gmail.com",
+    "phone": "787867667",
+    "country": "India"
+  },
+  {
+    "name": "Rita",
+    "email": "Rita@gmail.com",
+    "phone": "1111111111",
+    "country": "NewYork"
+  }
+]
